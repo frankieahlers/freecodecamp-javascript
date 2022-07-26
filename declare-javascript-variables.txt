@@ -1,0 +1,17 @@
+/* JavaScript has 8 different data types:
+- undefined
+- null
+- boolean
+- string
+- symbol
+- bigint
+- number
+- object 
+
+12 is a number, while "12" is a string.
+
+Variables represent the data we want to refer to, just like the x or y variables 
+in mathematics. They can store different values at different times! 
+*/
+
+var myName;
