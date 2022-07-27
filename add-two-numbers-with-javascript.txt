@@ -1,0 +1,8 @@
+const sum = 10 + 10;
+
+
+
+/* A number is a data type that represents numeric data. 
+
++ is an addition operator when placed between two numbers. 
+*/

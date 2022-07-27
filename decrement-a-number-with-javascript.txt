@@ -1,0 +1,10 @@
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
+
+/*
+You can decrease a varibale by one with --. 
+
+i--; is the same at i = i - 1;
+*/

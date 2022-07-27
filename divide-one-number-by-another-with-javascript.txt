@@ -1,0 +1,5 @@
+const quotient = 66 / 33;
+
+/*
+/ symbol is used for division. 
+*/

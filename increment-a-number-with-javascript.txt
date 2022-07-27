@@ -1,0 +1,10 @@
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
+
+/*
+You can add to a variable with the ++ operator. 
+
+i++ is the same as i = i + 1
+*/

@@ -1,0 +1,5 @@
+const difference = 45 - 33;
+
+/*
+- is the operator for subtraction. 
+*/

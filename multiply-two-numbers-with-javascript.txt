@@ -1,0 +1,5 @@
+const product = 8 * 10;
+
+/*
+* symbol is used for multiplication. 
+*/
