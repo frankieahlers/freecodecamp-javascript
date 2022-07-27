@@ -1,0 +1,11 @@
+// Setup
+var a;
+
+// Only change code below this line
+
+/* 
+= is an assignment operator, which you can use to store value in a variable.
+*/
+
+var a;
+a = 7;
