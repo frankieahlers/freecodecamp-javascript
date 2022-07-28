@@ -1,0 +1,9 @@
+// Change code below this line
+const someAdjective = "challenging but fun!";
+let myStr = "Learning to code is ";
+
+myStr += someAdjective;
+
+/*
+You can also use the += to append variable toa. string. 
+*/

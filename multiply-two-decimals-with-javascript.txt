@@ -1,0 +1,5 @@
+const product = 2.0 * 2.5;
+
+/*
+You can do calculations with decial numbers, just like whole numbers. 
+*/

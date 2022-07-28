@@ -1,0 +1,5 @@
+/*
+% is the remainder operator and gives the remainder of the vision of two numbers. 
+*/
+
+const remainder = 11 % 3;

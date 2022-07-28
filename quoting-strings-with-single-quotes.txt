@@ -1,0 +1,9 @@
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+/*
+Single and double quotes are interchangeable. 
+
+You may want to use one type instead of the other if you want to use both in a string. 
+
+This can also be useful if you are using an <a. tag in the string that uses double quotes everywhere.
+*/

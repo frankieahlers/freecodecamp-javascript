@@ -1,0 +1,5 @@
+const myStr = "This is the start." + " This is the end."; // Change this line
+
+/*
+When + is used with a string value, it is considered a concatenation operator. you can build a new string out of other strings by concatenating them together! 
+*/

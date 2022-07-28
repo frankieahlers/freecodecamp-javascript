@@ -1,0 +1,6 @@
+let myStr = "This is the first sentence.";
+
+myStr += " This is the second sentence."
+/*
+You can also use += to concatenate a string on the end of an existing varibale! 
+*/

@@ -1,0 +1,10 @@
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+
+/*
+When defining a string you must start and end it with single or double quotes. 
+
+You can escape a quote (let it be known that it's not the end of the string) by placing a \ before the quote. 
+
+EXAMPLE
+const frankiesHobbies =  "Frankie said \"I love dancing!\""
+*/
