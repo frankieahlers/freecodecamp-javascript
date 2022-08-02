@@ -1,0 +1,12 @@
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
+
+/*
+Bracket notation helps you find a character at a specific index within a string. 
+
+JavaScript starts counting at 0, which is called zero-based indexing. 
+*/
